@@ -129,6 +129,8 @@ form {
 textarea {
   width: 100%;
   height: auto;
+  position: fixed;
+  bottom: 0;
 
   color: #fff;
   font-size: 18px;
